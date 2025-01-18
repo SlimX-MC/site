@@ -1,4 +1,9 @@
-body {font-family: Arial, Helvetica, sans-serif;} /*défini le style des caractères du site */
+body {font-family: Arial, Helvetica, sans-serif;
+     background-image:url(image);
+
+   background-repeat:no-repeat;
+
+   background-size:cover;} /*défini le style des caractères du site */
 
 form {border: 3px solid #ffffff;}
 

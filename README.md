@@ -14,4 +14,6 @@ On viens d'avoir la note sur le code et bahhhhh 10/10 quoi (champagne bordel)
   - je reste et serai le seul responsable du site
   - il y aura des updates suivant ce que vous demandiez
 
+# Un avis sur les couleurs?
+
 En espèrant que ce site sera utile,bien à vous,SlimX

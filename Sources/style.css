@@ -22,11 +22,11 @@ color: rgb(0, 0, 0);
   .button:before{ /*donne les infos a garder lors de la transition*/
     content:" ";
     display:block;
-    border-radius: 10px;
+    border-radius: 15px;
     align-items: flex-start;
     width:200px;
     height:80px;
-    background:rgb(255, 255, 255);
+    background:#3b9ab9;
     position:absolute;
     top:-10px;
     left:-250px;
@@ -36,10 +36,6 @@ color: rgb(0, 0, 0);
   
   .button:hover:before{ 
     margin-left:300%;
-  }
-  
-  .button:hover {
-    border: 1px solid rgb(155, 131, 131);
   }
   .contentBox{
     margin: 0 auto;
@@ -52,7 +48,7 @@ color: rgb(0, 0, 0);
     height:75px;
     object-position: right ;
     position: relative;
-    background:#086788;
+    background:#3b9ab9;
     text-transform:uppercase;
     color:rgb(255, 255, 255);
     font-weight:700;
@@ -62,7 +58,7 @@ color: rgb(0, 0, 0);
     outline:none;
     cursor: pointer;
     margin-bottom: 1em;
-    border-radius: 10px;
+    border-radius: 15px;
   }
   .container {
     display: flex; 
